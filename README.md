@@ -9,4 +9,3 @@
 - 📫 How to reach me: [Telegram]- mukul_senpai [Email]- mukulupadhyay2007@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch Anime.
--->
