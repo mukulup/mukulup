@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **DSA, Competitive Programming**
 
-- 📫 How to reach me **: [Email]- mukulupadhyay2007@gmail.com**
+- 📫 How to reach me **: [Email]- mukulupadhyay2007@gmail.com  [Telegram]- https://t.me/mukul_senpai**
 
 - ⚡ Fun fact **I love watching Anime**
 
