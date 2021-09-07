@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mukul_upadhyay7" target="blank"><img src="https://img.shields.io/twitter/follow/mukul_upadhyay7?logo=twitter&style=for-the-badge" alt="mukul_upadhyay7" /></a> </p>
 
-- 🔭 I’m currently working on **Image Processing Library**
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Something**
 
 - 👯 I’m looking to collaborate on **Any Project in C/C++ or Python**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Android Development**
 
 - 💬 Ask me about **DSA, Competitive Programming**
 
