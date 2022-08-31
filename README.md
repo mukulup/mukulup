@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/mukul_upadhyay7" target="blank"><img src="https://img.shields.io/twitter/follow/mukul_upadhyay7?logo=twitter&style=for-the-badge" alt="mukul_upadhyay7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/notsomukul" target="blank"><img src="https://img.shields.io/twitter/follow/mukul_upadhyay7?logo=twitter&style=for-the-badge" alt="mukul_upadhyay7" /></a> </p>
 
 - 🌱 I’m currently learning **Something**
 
